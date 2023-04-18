@@ -29,3 +29,13 @@ The samples are intened for students to explore how data structures look like on
 [Sample](https://flipsidecrypto.xyz/alaskaaa/nft-samples-6AS3_O)
 
 If the link does not work, please refer to the PDF file "NFT project sample" in the respository.
+
+
+
+### DeFi project sample
+[Sample](https://flipsidecrypto.xyz/alaskaaa/sol-samples-7-o4o4)
+
+If the link does not work, please refer to the PDF file "DeFi project sample" in the respository.
+
+
+
