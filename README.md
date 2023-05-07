@@ -10,6 +10,9 @@ SQL-based projects that I built for graduate-level blockchain analytics course i
 If the link does not work, please refer to the PDF file "Blockchain analytics course overview" in the respository.
 
 
+## Interview "Blockchain in the classroom: More than just NFTs, crypto scams"
+[Feature article](https://dailyillini.com/?p=312829)
+
 
 
 ## On-chain analytics projects
