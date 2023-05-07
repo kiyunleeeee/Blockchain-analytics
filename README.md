@@ -11,7 +11,7 @@ If the link does not work, please refer to the PDF file "Blockchain analytics co
 
 
 ## Interview "Blockchain in the classroom: More than just NFTs, crypto scams"
-[Feature article](https://dailyillini.com/?p=312829)
+[Feature article by The Daily Illini](https://dailyillini.com/?p=312829)
 
 
 
